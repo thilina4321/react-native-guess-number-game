@@ -14,7 +14,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
     width: "90%",
     marginHorizontal: "5%",
-    elevation: 5,
+    elevation: 10,
     backgroundColor: "#fff",
     marginTop: 20,
   },
